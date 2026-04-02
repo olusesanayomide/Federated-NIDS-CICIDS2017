@@ -51,6 +51,9 @@ The model demonstrated stable convergence across federated rounds:
 | 4      | 94.54               |
 | 5      | **95.45**           |
 
+<p align="center">
+  <img src="images/accuracy_graph.png" width="600" title="Federated Learning Convergence">
+</p>
 ---
 
 ##  Convergence Insights
